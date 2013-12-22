@@ -5,14 +5,18 @@ Using ChucK as an External Instrument in Ableton Live
 
 Setup:
 
-// Setup a MIDI IAC Driver Bus to receive MIDI messages from Ableton Live in ChucK
+1. Setup a MIDI IAC Driver Bus to receive MIDI messages from Ableton Live in ChucK
 
-// Download and setup free Soundflower Driver* to receive audio from ChucK in Ableton Live
+2. Download and setup the free Soundflower Driver* to receive audio from ChucK in Ableton Live
 
-// Setup Audio Output to Soundflower 2ch in miniAudicle Preferences
+3. Setup Audio Output to Soundflower 2ch in miniAudicle Preferences
 
-// Set Soundflower monitoring to none in Soundlowerbed
+4. Set Soundflower monitoring to none in Soundlowerbed
 
-// Setup External Instrument in Ableton Live, midi to IAC, audio from Soundflower 2ch
+5. Setup External Instrument in Ableton Live, midi to IAC, audio from Soundflower 2ch
+
+6. Spork synth1.ck and THEN Ableton_External_instrument.ck from this repo
 
 *Soundflower free download: http://cycling74.com/soundflower-landing-page/
+
+DEMO VIDEO: http://youtu.be/a7hk31zDIkY
