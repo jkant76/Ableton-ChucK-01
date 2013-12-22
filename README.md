@@ -20,3 +20,5 @@ Setup:
 *Soundflower free download: http://cycling74.com/soundflower-landing-page/
 
 DEMO VIDEO: http://youtu.be/a7hk31zDIkY
+
+MORE INFO: http://jkant.blogspot.com/
