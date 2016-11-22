@@ -17,7 +17,7 @@ Setup:
 
 6. Spork synth1.ck and THEN Ableton_External_instrument.ck from this repo
 
-*Soundflower free download: http://cycling74.com/soundflower-landing-page/
+*Soundflower free download: https://github.com/mattingalls/Soundflower/releases/tag/2.0b2
 
 DEMO VIDEO: http://youtu.be/a7hk31zDIkY
 
